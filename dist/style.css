@@ -529,6 +529,8 @@ body {
           width: 7%;
           right: 0%;
           top: 0%; }
+          body main .main__second-section #window-modeling-career > img:hover {
+            cursor: pointer; }
       body main .main__second-section .main__window-modeling-career_move {
         animation-name: move-window-modeling-career;
         animation-duration: 1s;
@@ -552,6 +554,8 @@ body {
           left: 2%;
           bottom: 3%;
           transform: rotate(180deg); }
+          body main .main__second-section #window-modeling-career-backside > img:last-child:hover {
+            cursor: pointer; }
       body main .main__second-section .main__window-modeling-career_open {
         animation-name: open-window-modeling-career;
         animation-duration: .75s;
